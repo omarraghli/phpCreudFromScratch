@@ -1,0 +1,34 @@
+.messagef{
+    display: flex;
+    justify-content: center;
+}
+
+.tabprincipale{
+    display: flex;
+    justify-content: center;
+
+}
+table
+{
+    border-collapse: collapse; 
+    color: red;
+}
+td
+{
+    border: 1px solid black;
+    padding: 20px;
+}
+th{
+    border: 1px solid black;
+    padding: 10px;
+}
+header{
+    margin-bottom: 100px;
+}
+
+body{
+    background-image:linear-gradient(#F4EBD0, #D6AD60);
+}
+footer{
+    height: 300px;
+}
